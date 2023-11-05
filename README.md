@@ -1,0 +1,2 @@
+# SENTIMENT-ANALYSIS-OF-TWEETS-USING-VARIOUS-MACHINE-LEARNING-TECHNIQUES
+Sentiment Analysis,  is a natural language processing (NLP) approach that involves determining the sentiment or emotional tone expressed in a piece of text.  The objective is to categorize text in an automatic manner according to positive, negative, neutral, or occasionally more complex emotional states like joy, sadness, anger, or surprise.
